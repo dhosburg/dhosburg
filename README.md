@@ -1,7 +1,7 @@
 GitHub for dhosburg.
 
-Currently working on...
-  Cloud computing concepts
+Currently working on... </br>
+  Cloud computing concepts </br>
   Scripting and Automation through Python & Bash
   
 
