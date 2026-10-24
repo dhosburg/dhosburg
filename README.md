@@ -1,4 +1,9 @@
-## Hi there 👋
+GitHub for dhosburg.
+
+Currently working on...
+  Cloud computing concepts
+  Scripting and Automation through Python & Bash
+  
 
 <!--
 **dhosburg/dhosburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
